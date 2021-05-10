@@ -18,3 +18,7 @@ Step 3:  Isolate the plate (Using the custom deepstack lplate model).
 Step 4:  Recognize characters (Using the custom deepstack lplate_char model).
 
 ![step 4](sample_images/step4.JPG)
+
+Bonus:  I had to second guess myself on second character.   Turns out V is correct.  
+
+https://findbyplate.com/US/NY/HVC9401/
