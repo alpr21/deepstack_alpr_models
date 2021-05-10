@@ -1,1 +1,1 @@
-Trained on color licence plate photos skewed anywhere from 0 to 30 degrees.  Trained on a cropped licence plate (see lplate model).   Trained on approximately 250 tagged plate photos using yolov5m.  
+Model was trained on color licence plate photos skewed anywhere from 0 to 30 degrees.  Must be used on a cropped licence plate (see lplate model).   Trained on approximately 250 tagged plate photos, most in the USA NE, using yolov5m.  
