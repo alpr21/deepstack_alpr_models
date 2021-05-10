@@ -1,0 +1,1 @@
+Will only worked on a cropped picture of a vehicle.  Use deep stacks object detection to recognize vehicles.  Use any image library to crop them.   Trained on daytime images from an overhead camera offset anywhere from 0 to 30 degrees.
